@@ -37,8 +37,8 @@
     "arrow": false
   },
   "feedback": {
-    "thumbsRating": true,
-    "suggestEdit": true
+    "thumbsRating": false,
+    "suggestEdit": false
   },
   "tabs": [
     {
@@ -225,7 +225,7 @@
     }
   ],
   "footerSocials": {
-    "github": "https://github.com/mintlify",
+    "github": "https://github.com/rahil-patel-21",
     "slack": "https://mintlify.com/community",
     "x": "https://x.com/mintlify"
   },

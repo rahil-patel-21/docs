@@ -91,7 +91,12 @@
                     },
                     "status": {
                       "type": "string",
-                      "enum": ["queued", "in_progress", "success", "failure"],
+                      "enum": [
+                        "queued",
+                        "in_progress",
+                        "success",
+                        "failure"
+                      ],
                       "description": "The status of the update."
                     },
                     "summary": {
