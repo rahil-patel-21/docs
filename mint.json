@@ -42,6 +42,10 @@
   },
   "tabs": [
     {
+      "name": "CRM",
+      "url": "crm"
+    },
+    {
       "name": "Components",
       "url": "content"
     },
@@ -55,6 +59,14 @@
     }
   ],
   "navigation": [
+    {
+      "group": "CRM",
+      "pages": [
+        "crm/rest-api/auth/",
+        "crm/rest-api/auth/sign-up",
+        "crm/rest-api/auth/resend-otp"
+      ]
+    },
     {
       "group": "Getting Started",
       "pages": [
